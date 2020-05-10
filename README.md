@@ -3,5 +3,6 @@ A program that takes a sentiments file, which contains words associated with a s
 
 sentiments.txt -> sentiments file containing negative/positive scores of words.
 
-car_radio.txt  -> file containing text to analyze the text in the file to determine and print the word, score, multiplier, and total       shinyhappy.txt -> contribution to the over all score.
-sosad.txt      ->
+car_radio.txt  -> file to analyze
+sosad.txt      -> file to analyze
+shinyhappy.txt -> file to analyze
