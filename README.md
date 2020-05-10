@@ -4,5 +4,5 @@ A program that takes a sentiments file, which contains words associated with a s
 sentiments.txt -> sentiments file containing negative/positive scores of words.
 
 car_radio.txt  -> file to analyze
-sosad.txt      -> file to analyze
+sosad.txt -> file to analyze
 shinyhappy.txt -> file to analyze
